@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>lang_en.qm</file>
+        <file>lang_vi.qm</file>
+        <file>image/back.png</file>
+        <file>image/melody.png</file>
+        <file>image/next.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/repeat_icon.png</file>
+        <file>image/shuffle_icon.png</file>
+        <file>image/stop.png</file>
+        <file>image/volum.png</file>
+        <file>image/btn_grey.png</file>
+        <file>image/btn_orange.png</file>
+        <file>Component/Album.qml</file>
+        <file>Component/Favorites.qml</file>
+        <file>Component/Songs.qml</file>
+        <file>screen/screen1.qml</file>
+        <file>screen/screen2.qml</file>
+        <file>mComponent/ControllBar.qml</file>
+        <file>mComponent/ListSong.qml</file>
+        <file>mComponent/MyButton.qml</file>
+        <file>mComponent/Slider.qml</file>
+        <file>Component/Composer.qml</file>
+        <file>image/favorites.png</file>
+    </qresource>
+</RCC>
